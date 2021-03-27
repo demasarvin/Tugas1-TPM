@@ -1,3 +1,3 @@
 # tugas1-tpm
-Demas Arvin Purba Anggana <br>
-123180171
+Nama\t : Demas Arvin Purba Anggana <br>
+NIM\t : 123180171

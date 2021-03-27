@@ -1,3 +1,3 @@
 # tugas1-tpm
-Nama\t : Demas Arvin Purba Anggana <br>
-NIM\t : 123180171
+Nama : Demas Arvin Purba Anggana <br>
+NIM : 123180171
